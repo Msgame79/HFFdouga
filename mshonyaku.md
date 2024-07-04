@@ -1,6 +1,6 @@
 このメッセージの下にあるスレッドから[hffのリーダーボード](https://www.speedrun.com/hff)について議論してください。ここに挙げる案は必ずしも採用されるわけではなく、現状維持やまったく異なる案が採用されることもあります。
 
-**Krievous案: 現在のPinchをAny%に、現在のAny%(No Pinch)をRestrict%にする**
+**Krievous案: 現在のPinchをAny%に、現在のAny%(No Pinch)をRestricted%にする**
 
 > 主張:Speedrunというものはクリアタイムの短縮、もしくは移動速度を限りなく上げることでゲームの限界に挑戦することである。これには制作者が想定していないグリッチ(Propfly、Footsie、SSG、Pinch、その他いろいろ)の使用も当然含まれる。そこで現在のPinchをAny%とし、Spawn Displacementも認めるべきだと考える。現在のPinchやAny%で行うグリッチは、ゲームに変更を加えずに誰でもできる(技やグリッチの習得にどれくらいの時間がかかるかは別として)。PinchやSpawn Displacementは他のどのグリッチよりも速くクリアするのに有用であると信じている。Pinchも(Spawn Displacementも)好きではないことを加味しても、これが私にとっては理想的だと感じている。現在のAny%もPinchやSpawn Displacementを好き好んで使わない残すが、カテゴリ名を変更しないのは、Any%の概念(制限無くとにかく最速クリアを目指す)に反するので、カテゴリ名の変更は行う。結論:No Extended ClimbではPinchとSpawn Displacementを許可する。現在のPinch系統はAny%になり、Spawn Displacementも許可する。現在のAny%系統はRestricted%(確定はしていない)に名称を変更する。なお、ここでのSpawn Displacementとは、ステージ内で完結するものである。
 > 
