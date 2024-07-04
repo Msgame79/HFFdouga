@@ -1,0 +1,19 @@
+Making a discussion about the categories on our leaderboard in a thread under this message. 
+These suggestions are not necessarily either/or. If the community comes with another suggestion that is better, 
+then we can go with that option.
+
+**Krievous' suggestion
+Pinch becomes Any% and Any% becomes Restricted%**
+
+> My point: speedrunning is just about finishing a game, or getting from a point to another as fast as possible and pushing the game's limits to do so, which includes using various glitches that can be done in the game which are not meant to be done (i.e: propfly, footsie, speedglitch, pinch, and more...). It leaves myself to think that Pinch should become the new Any%, and also add the spawn displacement I talk about in this vote's thread. Pinch and Any% both use glitches that can be done by anyone without any addition to the game, and I leave alone the fact that some glitches are harder to pull off, or make you gain more time than others. I believe Pinch and spawn displacement are ways to finish the game faster like any other. I want to add that I don't like Pinch either, yes, but I feel that this is the choice that makes the more sense. I would still keep the old Any% for people that don't want pinch or spawn displacement, but I would rename it something else because I just find it dumb to have an Any% that doesn't have the fastest strategies. Consequences: No EC allows Pinch and spawn displacement. Every Pinch category will become Any% and allow spawn displacement and every Any% category will become Restricted% or another name. Everytime I mentioned spawn displacement, it is the one I explain at the top of the vote thread.
+> 
+> Note that I will respect any conclusion the community ends up on and I will never change the leaderboards and rules by myself only
+
+**Poulet's suggestion
+Keep Any% as it is, and rename Pinch since we are adding another glitch to it**
+
+> In my opinion, we should keep the Any% category as it is now, and change the the name of Pinch%, since it doesn't make sense to keep it with the new "smash the ground strat". https://discord.com/channels/384352195589439490/386704090178256897/1239193688152866888
+> Because changing the leaderboard making a new "true" any% and allowing EVERY glitches is not viable and no one would like it (most of the speedruners) because we all like the current any% how it is and this would make trouble since everyone is used to our any% it will be also really hard since the community is splited (with the chinese community for exemple) and making everyone aware of the new rules won't be an easy task and this also mean a different new leaderboard, that's why we have pinch% in the first place, to not confuse anyone, now we can do the same but it will encompass every new glitches. Also changing the any% category because it is not the same as all of the other speedrun.com page is (to me) a dumb argument, the goal is not to make the hff speedrun.com page like everyone OUT of the hff speedrun community but to make it enjoyable and right for everyone IN the community as it has been the case forever, "anyone is allowed to change the rules as mods are just curators over the leaderboard, the community as a whole decides how the game should be run" ⁠https://discord.com/channels/384352195589439490/391933653019525138/1199441596333183026
+> 
+> So the idea would be to only change the Pinch% category to "everything allowed category". Why ? Cuz no one want to leave the current any% anyway "not all the glitches" so we could still have separated pinch and the "smash the ground strat" (also we need a name for this lol). I think of the name "No Restriction" since every glitches will be allowed in the category cuz it's like any% but people seems like to hate this name, but it can be changed.
+> (everytime i talked about any%, im talking about the "solo" subcategory in speedrun.com and not the actual Any% category)
